@@ -1,1 +1,1 @@
-Hello, this is sample
+Hello, this is sample code
